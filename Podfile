@@ -8,6 +8,6 @@ target 'Movie' do
   # Pods for Movie
 
 	pod 'Firebase/Core'
-	pod 'Firebase/Database’
+	pod 'Firebase/Auth’
 
 end
